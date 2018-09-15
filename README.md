@@ -1,2 +1,14 @@
-# Golang-backendapi
-This is a golang backend API capable of adding, deleting, updating Todo lists and todos
+
+## Run the code with
+```
+go get github.com/lib/pq
+
+go run main.go
+```
+
+## Automated tests
+
+```
+
+```
+
